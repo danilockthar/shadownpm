@@ -1,0 +1,22 @@
+{
+  "name": "shadowmonsterix",
+  "version": "1.0.0",
+  "description": "Package test add shadows to elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilockthar/shadownpm.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "Daniel Arroyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danilockthar/shadownpm/issues"
+  },
+  "homepage": "https://github.com/danilockthar/shadownpm#readme"
+}
